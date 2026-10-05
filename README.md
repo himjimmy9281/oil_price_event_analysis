@@ -16,3 +16,5 @@ URL:
 ## 重大事件表
 此資料本人是用ChatGPT下達以下描述並把資訊複製進txt檔，並在Excel進行匯入轉csv檔
 事件的資料來源皆來自美國能源情報署（U.S. Energy Information Administration）(EIA)官網。
+
+## 清理資料
