@@ -19,5 +19,6 @@ print('\n國際事件:')
 print(df3.info())
 print('\n缺失值統計:')
 print(df3.isnull().sum())
-
-#列印結果顯示 Brent及WTI的原油價格有缺失所以進行資料清理
+#列印結果顯示
+#Brent及WTI的原油價格有缺失需進行資料清理，日期欄位的資料格式為str，需轉換為datetime格式。
+#國際事件的資料沒有缺失值，但事件日期欄位的資料格式需要進行轉換，將日期欄位轉換為datetime格式。
