@@ -1,4 +1,7 @@
 # 資料來源
+在尋找資料的部分，本人詢問ChatGPT能取得此專題可用資料來源來做為參考:
+
+
 
 ## Brent及WTI歷年石油價格
 Brent及WTI的csv原檔皆來自Federal Reserve Economic Data|FRED官網:
