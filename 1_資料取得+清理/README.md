@@ -33,7 +33,7 @@ URL:
 檢查程式：[data_check.py](data_check.py)
 
 ## 3.資料清理
-原始程式碼一開始只用 Python 的 pandas 進行資料清理，清理完之後發現缺失價格雖補齊了但日期沒了。
+原始程式碼一開始只用 Python 的 pandas 對原油價格資料進行資料清理，清理完後發現缺失價格雖補齊了但日期沒了。
 所以本人用VScode內建的AI Copilot 協助清理程式的撰寫
 
 <p align="left">
@@ -42,5 +42,8 @@ URL:
 <p align="left">
 <img src="image\ai_assist3.png" width="50%" height="50%">
 </p>
+
+Ai協助撰寫後的程式碼用了 pathlib 進行指定檔案路徑以及 pandas 進行資料清理
+把原油價格及國際事件進行清理，並把清理後的資料存在放乾淨資料用的檔案夾
 
 清理程式:[data_clean.py](data_clean.py)
