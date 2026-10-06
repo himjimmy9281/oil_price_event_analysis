@@ -3,7 +3,7 @@
 在尋找資料的部分，本人詢問ChatGPT能取得此專題可用資料來源來做為參考:
 
 <p align="left">
-<img src="image\Ask_sources.png" width="40%" height="40%">
+<img src="image\Ask_sources.PNG" width="40%" height="40%">
 </p>
 
 ### Brent及WTI歷年石油價格
