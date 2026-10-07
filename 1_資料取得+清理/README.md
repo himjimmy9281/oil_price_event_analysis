@@ -24,10 +24,10 @@ URL:
 檢查結果顯示，Brent 與 WTI 原油價格資料有缺失值，且日期欄位是字串格式，需在資料清理時補值並轉換日期型態；國際事件資料沒有缺失值，但事件日期欄位也需轉換為日期型態。
 
 <p align="left">
-<img src="image\data_check.png" width="50%" height="50%">
+<img src="image\data_check.png" width="40%" height="40%">
 </p>
 <p align="left">
-<img src="image\data_check02.png" width="50%" height="50%">
+<img src="image\data_check02.png" width="40%" height="40%">
 </p>
 
 檢查程式：[data_check.py](data_check.py)
@@ -37,10 +37,10 @@ URL:
 所以本人用VScode內建的AI Copilot 協助清理程式的撰寫
 
 <p align="left">
-<img src="image\ai_assist.png" width="50%" height="50%">
+<img src="image\ai_assist.png" width="40%" height="40%">
 </p>
 <p align="left">
-<img src="image\ai_assist3.png" width="50%" height="50%">
+<img src="image\ai_assist3.png" width="40%" height="40%">
 </p>
 
 Ai協助撰寫後的程式碼用了 pathlib 進行指定檔案路徑以及 pandas 進行資料清理
