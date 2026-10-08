@@ -18,6 +18,8 @@
 
 ## 使用工具
 Vscode:程式開發環境
-Python:資料清理及資料導入工具
-Datagrip:資料庫圖形化介面管理工具
-MariaDB:主要資料庫存放石油價格及重大事件資訊
+Python:資料清理工具
+Datagrip:導入及整合資料
+MariaDB:資料庫系統語言為MySQL
+
+## 資料來源與取得
